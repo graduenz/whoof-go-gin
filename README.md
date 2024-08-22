@@ -1,3 +1,3 @@
 # whoof-go-gin
 
-Whoof API implementation with Go & Gin.
+Whoof API implementation in Go, using Gin.
